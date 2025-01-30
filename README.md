@@ -4,13 +4,7 @@ This is a simple product suggestion website that allows users to view a list of 
 
 ## Project Structure
 
-Collecting workspace information
 
-Here is a suggested 
-
-README.md
-
- for your codebase:
 
 ```md
 # Product Suggestion Website
