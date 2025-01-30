@@ -103,6 +103,6 @@ Make sure you have the following installed on your system:
 ### 2. Navigate to the Directory Where You Want to Clone the Repository
 
 ### 3. Git clone
-```
+```bash
 git clone https://github.com/pawansai211/Product_Sug.git
 ```
